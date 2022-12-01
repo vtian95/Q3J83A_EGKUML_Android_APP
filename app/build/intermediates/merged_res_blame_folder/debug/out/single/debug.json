@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.example.beadando_mobil_02.app-merged_res-5:/layout_fragment_notedetails.xml.flat",
+        "source": "com.example.beadando_mobil_02.app-main-7:/layout/fragment_notedetails.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-pngs-0:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\layout_fragment_notelist.xml.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\layout\\fragment_notelist.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\layout_notebook_list_row.xml.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\layout\\notebook_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\drawable_baseline_home_white_18dp.png.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\drawable\\baseline_home_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\layout_fragment_notedetails.xml.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\layout\\fragment_notedetails.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\daemon\\7.4\\com.example.beadando_mobil_02.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    }
+]

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ar">#F30202</color>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Szam">1</string>
+    <string name="_1">1</string>
+    <string name="_1_">1</string>
+    <string name="app_name">Beadando_Mobil_02</string>
+    <string name="az_oldalon_notebook_eszk_z_k_gy_rt_it_s_t_pusait_tekintheti_meg_amik_k_z_l_v_s_rolhat_n_lunk_az_rat_s_az_el_bbi_adatokat_a_kijelz_jobb_fels_sark_ra_kattintva_tekintheti_meg_a_quot_notebook_quot_men_ponton">Az oldalon Notebook eszközök gyártóit és típusait tekintheti meg amik közül vásárolhat nálunk, az árat és az előbbi adatokat a kijelző jobb felső sarkára kattintva tekintheti meg a \"Notebook\" menüponton.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <style name="Theme.Beadando_Mobil_02" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
