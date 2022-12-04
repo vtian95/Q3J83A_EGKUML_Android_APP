@@ -5,4 +5,6 @@
     <string name="_1">1</string>
     <string name="Szam">1</string>
     <string name="_1_">1</string>
+    <string name="home">Home</string>
+    <string name="az_oldalon_notebook_eszk_z_k_gy_rt_it_s_t_pusait_tekintheti_meg_amik_k_z_l_v_s_rolhat_n_lunk_az_rat_s_az_el_bbi_adatokat_a_kijelz_jobb_fels_sark_ra_kattintva_tekintheti_meg_a_quot_notebook_quot_men_ponton">Az oldalon Notebook eszközök gyártóit és típusait tekintheti meg amik közül vásárolhat nálunk, az árat és az előbbi adatokat a kijelző jobb felső sarkára kattintva tekintheti meg a \"Notebook\" menüponton.</string>
 </resources>
