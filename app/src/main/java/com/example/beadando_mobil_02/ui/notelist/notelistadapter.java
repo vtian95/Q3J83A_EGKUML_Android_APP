@@ -16,9 +16,11 @@ import java.util.List;
 public class notelistadapter extends RecyclerView.Adapter<notelistadapter.NotebookHolder>  {
 
     private List<Notebook> notebookList ;
+    private notelistFragment fragment;
 
-    public notelistadapter(List<Notebook> notebookList) {
+    public notelistadapter(List<Notebook> notebookList, notelistFragment fragment) {
         this.notebookList = notebookList;
+        this.fragment = fragment;
     }
 
     @NonNull
@@ -38,6 +40,13 @@ public class notelistadapter extends RecyclerView.Adapter<notelistadapter.Notebo
         holder.idTextView.setText(notebook.getId());
         holder.costTextView.setText(notebook.getAr());
         holder.typeTextView.setText(notebook.getTipus());
+
+        holder.itemView.setOnClickListener(v -> {
+            fragment.navigateToNotebookDetails(notebook);
+            ;
+
+        });
+
     }
 
     @Override

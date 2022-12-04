@@ -12,10 +12,16 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
+import com.example.beadando_mobil_02.domain.Notebook;
 import com.example.beadando_mobil_02.ui.home.HomeFragment;
+import com.example.beadando_mobil_02.ui.notedetails.notedetailsFragment;
+import com.example.beadando_mobil_02.ui.notelist.notelistFragment;
 import com.example.beadando_mobil_02.ui.profile.ProfileFragment;
 
 public class MainActivity extends AppCompatActivity {
+
+
+    private Notebook selectedNotebook;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,6 +38,9 @@ public class MainActivity extends AppCompatActivity {
 
         return true;
     }
+    public Notebook getSelectedNotebook() {
+        return selectedNotebook;
+    }
 
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
@@ -39,6 +48,9 @@ public class MainActivity extends AppCompatActivity {
             case R.id.action_home:
                 //showMessage("Home");
                 loadFragment(new HomeFragment(), "home" , true );
+                return true;
+            case R.id.action_notebook_list:
+                loadFragment(new notelistFragment(), "notebook_list", true);
                 return true;
             case R.id.action_profile:
                 //showMessage("Profile");
@@ -66,4 +78,11 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(getApplicationContext(), message, Toast.LENGTH_SHORT).show();
 
     }
+    public void navigateToNotebookDetails(Notebook notebook) {
+        this.selectedNotebook = notebook;
+        loadFragment(new notedetailsFragment(), "notebook_details", true    );
+
+    }
+
+
 }

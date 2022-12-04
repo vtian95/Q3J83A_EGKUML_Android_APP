@@ -11,6 +11,15 @@
     android:paddingBottom="10dp">
 
     <TextView
+        android:id="@+id/costTextView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#1976D2"
+        app:layout_constraintBaseline_toBaselineOf="@+id/titleTextView"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:text="2015" />
+
+    <TextView
         android:id="@+id/titleTextView"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
@@ -44,13 +53,16 @@
         android:id="@+id/idtextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="24dp"
-        android:text="@string/_1"
-        android:textSize="24sp"
-        app:layout_constraintBottom_toTopOf="@+id/titleTextView"
-        app:layout_constraintEnd_toStartOf="@+id/titleTextView"
-        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="41dp"
+        android:layout_marginEnd="64dp"
+        android:layout_marginBottom="10dp"
+        android:textColor="#0C2ACF"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toTopOf="@+id/typeTextView"
+        app:layout_constraintEnd_toStartOf="@+id/costTextView"
+        app:layout_constraintStart_toEndOf="@+id/titleTextView"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.1" />
+        tools:text="1000" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
