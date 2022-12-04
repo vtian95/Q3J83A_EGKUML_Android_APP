@@ -10,11 +10,11 @@
         android:title="Notebook eszközök"
         app:showAsAction="never" />
     <item android:id="@+id/action_profile"
-        android:title="Profil"
+        android:title="Alkalmazás leírása"
         app:showAsAction="never" />
 
     <item android:id="@+id/action_settings"
-        android:title="Beállítások"
+        android:title="Új lehetőségek"
         app:showAsAction="never" />
 
 
