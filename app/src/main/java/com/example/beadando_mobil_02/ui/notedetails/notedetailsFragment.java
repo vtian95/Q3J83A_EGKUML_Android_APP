@@ -25,10 +25,16 @@ public class notedetailsFragment extends Fragment {
 
         TextView notebooktitleTextView = view.findViewById(R.id.notebooktitleTextView);
 
+        //Ez mar a listazashoz kell elvileg
         MainActivity mainActivity = (MainActivity) getActivity();
         Notebook selectedNotebook = mainActivity.getSelectedNotebook();
         notebooktitleTextView.setText(selectedNotebook.getGyarto());
+
+
+
         return view;
+
+
 
     }
 }
