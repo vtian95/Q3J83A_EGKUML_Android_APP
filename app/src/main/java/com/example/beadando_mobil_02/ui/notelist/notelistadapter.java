@@ -41,6 +41,7 @@ public class notelistadapter extends RecyclerView.Adapter<notelistadapter.Notebo
         holder.costTextView.setText(notebook.getAr());
         holder.typeTextView.setText(notebook.getTipus());
 
+
         holder.itemView.setOnClickListener(v -> {
             fragment.navigateToNotebookDetails(notebook);
             ;
