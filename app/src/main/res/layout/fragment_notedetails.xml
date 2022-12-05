@@ -14,6 +14,7 @@
         android:layout_marginStart="30dp"
         android:layout_marginTop="40dp"
         android:text="Kijelzo:"
+        android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -24,6 +25,7 @@
         android:layout_marginStart="30dp"
         android:layout_marginTop="80dp"
         android:text="Memória:"
+        android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView7" />
 
@@ -31,8 +33,9 @@
         android:id="@+id/displaytextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="80dp"
+        android:layout_marginStart="100dp"
         android:layout_marginTop="40dp"
+        android:textSize="20sp"
         app:layout_constraintStart_toEndOf="@+id/textView7"
         app:layout_constraintTop_toTopOf="parent"
         tools:text="15" />
@@ -41,8 +44,9 @@
         android:id="@+id/memorytextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="65dp"
-        android:layout_marginTop="80dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="72dp"
+        android:textSize="20sp"
         app:layout_constraintStart_toEndOf="@+id/textView8"
         app:layout_constraintTop_toBottomOf="@+id/displaytextView"
         tools:text="64" />
@@ -54,6 +58,7 @@
         android:layout_marginStart="30dp"
         android:layout_marginTop="80dp"
         android:text="Merevlemez:"
+        android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView8" />
 
@@ -61,8 +66,9 @@
         android:id="@+id/tarhelytextview"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="45dp"
+        android:layout_marginStart="52dp"
         android:layout_marginTop="80dp"
+        android:textSize="20sp"
         app:layout_constraintStart_toEndOf="@+id/textView11"
         app:layout_constraintTop_toBottomOf="@+id/memorytextView"
         tools:text="500" />
@@ -74,15 +80,19 @@
         android:layout_marginStart="30dp"
         android:layout_marginTop="80dp"
         android:text="Videóvezérlő:"
+        android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView11" />
 
     <TextView
         android:id="@+id/videotextview"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginStart="40dp"
-        android:layout_marginTop="80dp"
+        android:layout_marginStart="52dp"
+        android:layout_marginTop="88dp"
+        android:layout_marginEnd="32dp"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/textView14"
         app:layout_constraintTop_toBottomOf="@+id/tarhelytextview"
         tools:text="Részletes leiras" />
@@ -109,6 +119,7 @@
         android:layout_marginTop="5dp"
         android:layout_marginEnd="10dp"
         android:text="Részletes adatok listázása a kiválasztott készülékről"
+        android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
