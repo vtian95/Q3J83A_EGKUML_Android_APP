@@ -2693,6 +2693,7 @@ id accessibility_custom_action_9
 id actionDown
 id actionDownUp
 id actionUp
+id action_DB
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -2712,7 +2713,7 @@ id action_mode_bar_stub
 id action_mode_close_button
 id action_notebook_list
 id action_profile
-id action_settings
+id action_retrofit
 id action_text
 id actions
 id activity_chooser_view_content
@@ -2848,6 +2849,7 @@ id frost
 id fullscreen_header
 id ghost_view
 id ghost_view_holder
+id glide_custom_view_target_tag
 id gone
 id graph
 id graph_wrap
@@ -2990,8 +2992,11 @@ id pressed
 id progress_circular
 id progress_horizontal
 id radio
+id randomButton
 id ratio
 id rectangles
+id resultImageView
+id resultTextView
 id reverseSawtooth
 id right
 id rightToLeft
@@ -3009,6 +3014,8 @@ id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
 id scrollable
+id searchButton
+id searchEditText
 id search_badge
 id search_bar
 id search_button
@@ -3120,6 +3127,7 @@ id transition_layout_save
 id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
+id trendingButton
 id triangle
 id typeTextView
 id unchecked
@@ -3344,6 +3352,7 @@ layout notification_template_custom_big
 layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout retrofit
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material

@@ -1,8 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.beadando_mobil_02.app-mergeDebugResources-3:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.example.beadando_mobil_02.app-mergeDebugResources-28:/values-night-v8/values-night-v8.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\DELL\\Documents\\GitHub\\Q3J83A_EGKUML_Android_APP\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "820"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "687",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "1272"
+                    }
+                },
                 {
                     "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\caches\\transforms-3\\034f511a629c0fda711794a09fef4382\\transformed\\appcompat-1.5.1\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
@@ -18,25 +37,6 @@
                         "startOffsets": "55,125,209,293,389,491,593,3931",
                         "endColumns": "69,83,83,95,101,101,93,88",
                         "endOffsets": "120,204,288,384,486,588,682,4015"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\DELL\\AndroidStudioProjects\\Beadando_Mobil_02\\app\\src\\main\\res\\values-night\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "806"
-                    },
-                    "to": {
-                        "startLines": "9",
-                        "startColumns": "4",
-                        "startOffsets": "687",
-                        "endLines": "21",
-                        "endColumns": "12",
-                        "endOffsets": "1272"
                     }
                 },
                 {

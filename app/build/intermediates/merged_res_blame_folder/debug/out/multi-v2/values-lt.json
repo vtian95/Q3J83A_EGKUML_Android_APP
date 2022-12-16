@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.beadando_mobil_02.app-mergeDebugResources-3:/values-lt/values-lt.xml",
+            "outputFile": "com.example.beadando_mobil_02.app-mergeDebugResources-28:/values-lt/values-lt.xml",
             "map": [
                 {
                     "source": "C:\\Users\\DELL\\Desktop\\moviapp\\movieapp-master\\MovieApp\\gradle\\caches\\transforms-3\\459731560744495d36c7572f4eaf1462\\transformed\\material-1.7.0\\res\\values-lt\\values-lt.xml",

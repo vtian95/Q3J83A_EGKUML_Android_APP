@@ -12,10 +12,11 @@ drawable baseline_home_white_18dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 id Notebookrecycleview
+id action_DB
 id action_home
 id action_notebook_list
 id action_profile
-id action_settings
+id action_retrofit
 id costTextView
 id displaytextView
 id fragment_container
@@ -23,6 +24,11 @@ id idtextView
 id linearLayout
 id mainToolbar
 id memorytextView
+id randomButton
+id resultImageView
+id resultTextView
+id searchButton
+id searchEditText
 id tarhelytextview
 id textView
 id textView11
@@ -38,6 +44,7 @@ id textView6
 id textView7
 id textView8
 id titleTextView
+id trendingButton
 id typeTextView
 id videotextview
 layout activity_main
@@ -46,6 +53,7 @@ layout fragment_notedetails
 layout fragment_notelist
 layout fragment_profile
 layout notebook_list_row
+layout retrofit
 menu main_menu
 mipmap ic_launcher
 mipmap ic_launcher_round

@@ -13,8 +13,12 @@
         android:title="Alkalmazás leírása"
         app:showAsAction="never" />
 
-    <item android:id="@+id/action_settings"
-        android:title="Új lehetőségek"
+    <item android:id="@+id/action_retrofit"
+        android:title="REST API"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_DB"
+        android:title="Új adat felvétele(DB)"
         app:showAsAction="never" />
 
 
