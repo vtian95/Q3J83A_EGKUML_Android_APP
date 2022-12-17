@@ -19,6 +19,7 @@ import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 import com.example.beadando_mobil_02.domain.Notebook;
+import com.example.beadando_mobil_02.ui.databases.databaseFragment;
 import com.example.beadando_mobil_02.ui.home.HomeFragment;
 import com.example.beadando_mobil_02.ui.notedetails.notedetailsFragment;
 import com.example.beadando_mobil_02.ui.notelist.notelistFragment;
@@ -70,18 +71,24 @@ public class MainActivity extends AppCompatActivity {
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
         switch (item.getItemId()) {
             case R.id.action_home:
-                //showMessage("Home");
+                //home almenü.
                 loadFragment(new HomeFragment(), "home" , true );
                 return true;
+                //notebook_list almenü.
             case R.id.action_notebook_list:
                 loadFragment(new notelistFragment(), "notebook_list", true);
                 return true;
+                //App leírás
             case R.id.action_profile:
-                //Leírás;
-                loadFragment(new ProfileFragment(), "home" , true);
+                loadFragment(new ProfileFragment(), "bemutatkozás" , true);
                 return true;
+                //RESt api almenü
             case R.id.action_retrofit:
-                loadFragment(new retrofitFragment(), "retrofit" , true);
+                loadFragment(new retrofitFragment(), "rest api" , true);
+                return true;
+        // adatbázis feltöltés lenne,ha menne.
+            case R.id.action_DB:
+                loadFragment(new databaseFragment(), "database" , true);
 
                 return true;
         }

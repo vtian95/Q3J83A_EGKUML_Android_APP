@@ -5,6 +5,8 @@ import android.database.sqlite.SQLiteDatabase;
 import android.content.ContentValues;
 import android.database.sqlite.SQLiteOpenHelper;
 
+import com.example.beadando_mobil_02.domain.Notebook;
+
 public class DATABASE extends SQLiteOpenHelper{
     public static final String DATABASE_NAME = "notebook.db";
     SQLiteDatabase db;
@@ -26,6 +28,13 @@ public class DATABASE extends SQLiteOpenHelper{
                 "\t\"merevlemez\"\tTEXT NOT NULL,\n" +
                 "\t\"videovezerlo\"\tTEXT NOT NULL )");
     }
+    /*
+    public void addnotebookstoNotebooks(long notebookId, Notebook nootebook){
+        db.execSQL("INSERT INTO notebook( gyarto, tipus
+        , ar,kijelzo,memoria,merevlemez,videovezerlo)
+         VALUES("+ notebook.getid() +", "+ gyarto +")");
+    }
+    */
 
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {

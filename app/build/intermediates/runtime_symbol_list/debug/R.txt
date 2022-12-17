@@ -2644,6 +2644,7 @@ int id ALT 0x7f080000
 int id BOTTOM_END 0x7f080001
 int id BOTTOM_START 0x7f080002
 int id CTRL 0x7f080003
+int id Cim 0x7f08020f
 int id FUNCTION 0x7f080004
 int id META 0x7f080005
 int id NO_DEBUG 0x7f080006
@@ -2655,6 +2656,7 @@ int id SHOW_PROGRESS 0x7f08000b
 int id SYM 0x7f08000c
 int id TOP_END 0x7f08000d
 int id TOP_START 0x7f08000e
+int id Tipus 0x7f080210
 int id accelerate 0x7f08000f
 int id accessibility_action_clickable_span 0x7f080010
 int id accessibility_custom_action_0 0x7f080011
@@ -2726,6 +2728,7 @@ int id animateToEnd 0x7f080051
 int id animateToStart 0x7f080052
 int id antiClockwise 0x7f080053
 int id anticipate 0x7f080054
+int id ar 0x7f080211
 int id arc 0x7f080055
 int id asConfigured 0x7f080056
 int id async 0x7f080057
@@ -2856,6 +2859,7 @@ int id group_divider 0x7f0800d2
 int id grouping 0x7f0800d3
 int id groups 0x7f0800d4
 int id guideline 0x7f0800d5
+int id gyart 0x7f080212
 int id header_title 0x7f0800d6
 int id hideable 0x7f0800d7
 int id home 0x7f0800d8
@@ -2879,6 +2883,7 @@ int id italic 0x7f0800e9
 int id item_touch_helper_previous_elevation 0x7f0800ea
 int id jumpToEnd 0x7f0800eb
 int id jumpToStart 0x7f0800ec
+int id kij 0x7f080213
 int id labeled 0x7f0800ed
 int id layout 0x7f0800ee
 int id left 0x7f0800ef
@@ -2914,7 +2919,9 @@ int id material_timepicker_ok_button 0x7f08010c
 int id material_timepicker_view 0x7f08010d
 int id material_value_index 0x7f08010e
 int id matrix 0x7f08010f
+int id memoria 0x7f080214
 int id memorytextView 0x7f080110
+int id merev 0x7f080215
 int id message 0x7f080111
 int id middle 0x7f080112
 int id mini 0x7f080113
@@ -3089,12 +3096,18 @@ int id textSpacerNoTitle 0x7f0801bb
 int id textStart 0x7f0801bc
 int id textTop 0x7f0801bd
 int id textView 0x7f0801be
+int id textView10 0x7f080216
 int id textView11 0x7f0801bf
 int id textView13 0x7f0801c0
 int id textView14 0x7f0801c1
+int id textView15 0x7f080217
 int id textView16 0x7f0801c2
 int id textView17 0x7f0801c3
+int id textView18 0x7f080218
+int id textView19 0x7f080219
 int id textView2 0x7f0801c4
+int id textView20 0x7f08021a
+int id textView21 0x7f08021b
 int id textView3 0x7f0801c5
 int id textView4 0x7f0801c6
 int id textView5 0x7f0801c7
@@ -3111,6 +3124,7 @@ int id textinput_placeholder 0x7f0801d1
 int id textinput_prefix_text 0x7f0801d2
 int id textinput_suffix_text 0x7f0801d3
 int id time 0x7f0801d4
+int id tip 0x7f08021c
 int id title 0x7f0801d5
 int id titleDividerNoCustom 0x7f0801d6
 int id titleTextView 0x7f0801d7
@@ -3135,6 +3149,7 @@ int id unlabeled 0x7f0801e9
 int id up 0x7f0801ea
 int id useLogo 0x7f0801eb
 int id vertical_only 0x7f0801ec
+int id vga 0x7f08021d
 int id videotextview 0x7f0801ed
 int id view_offset_helper 0x7f0801ee
 int id view_transition 0x7f0801ef
@@ -3344,6 +3359,7 @@ int layout mtrl_picker_header_title_text 0x7f0b005d
 int layout mtrl_picker_header_toggle 0x7f0b005e
 int layout mtrl_picker_text_input_date 0x7f0b005f
 int layout mtrl_picker_text_input_date_range 0x7f0b0060
+int layout new_notebook_database 0x7f0b006e
 int layout notebook_list_row 0x7f0b0061
 int layout notification_action 0x7f0b0062
 int layout notification_action_tombstone 0x7f0b0063
